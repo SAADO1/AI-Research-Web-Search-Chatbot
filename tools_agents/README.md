@@ -27,3 +27,12 @@ DuckDuckGo Search
 Wikipedia API
 arXiv API
 python-dotenv
+
+
+#Project Structure
+project/
+│── app.py
+│── requirements.txt
+│── .env
+└── README.md
+
